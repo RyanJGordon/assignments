@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Ryan Gordon"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: ""
+      - Assignments.qmd
+      - href: ""
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+

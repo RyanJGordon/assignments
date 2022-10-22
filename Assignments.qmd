@@ -1,0 +1,11 @@
+---
+title: "Assignments"
+---
+
+**Assignment 1:**
+
+<https://utdallas.qualtrics.com/jfe/form/SV_dd3vPchqF5j4qxw>
+
+**Assignment 2:**
+
+![](images/Rplot.png)
