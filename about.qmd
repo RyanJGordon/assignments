@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+### Introduction
+
+Ryan Gordon is a Social Data Analytics and Research Master's student at the University of Texas at Dallas.
+
+### Education
+
+Bachelor of Science in Marketing from the University of Texas at Dallas.
+
+```{r}
+plot(Titanic)
+```

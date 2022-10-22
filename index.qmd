@@ -1,0 +1,9 @@
+---
+title: "Ryan Gordon"
+---
+
+Ryan Gordon website hosting my projects, data stories, etc.
+
+```{r}
+plot(iris, pch=20, cex=.5, col="firebrick")
+```
